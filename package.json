@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Jayaprakaashkm/QR-Generator#readme",
   "dependencies": {
-    "inquirer": "^9.2.20"
+    "inquirer": "^9.2.20",
+    "qr-image": "^3.2.0"
   }
 }
